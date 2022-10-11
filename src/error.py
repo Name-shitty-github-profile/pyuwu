@@ -10,5 +10,5 @@ class errors:
     if self.handled != 0:
       self.handled -= 1
       return None
-    print(f'\033[35mThe code raised an exception\nSource\n{op}\n{msg}')
+    print(f'\033[35mThe cwode waiswed an exsweptwion >:c\nSwource\n{op}\n{msg}')
     return None

@@ -11,4 +11,5 @@ class errors:
       self.handled -= 1
       return None
     print(f'\033[35mThe cwode waiswed an exsweptwion >:c\nSwource\n{op}\n{msg}')
+    exit()
     return None

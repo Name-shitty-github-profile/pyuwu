@@ -1,2 +1,2 @@
-# Docs
+# Docs list
 [Errors](./errors.md)
